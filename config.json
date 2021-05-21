@@ -1,0 +1,45 @@
+
+{
+    "prefix": "!",
+    "color": "#20bee1",
+    
+    "command1": "about",
+    "command2": "help",
+    "command3": "info",
+    "command4": "server",
+    
+
+    "title1": "__**Discord Bot**__",
+
+    "title2": "XX",
+    "title3": "XX",
+
+
+
+    "description1": "Welcome to [Server Name] please make a ticket if support is needed. Try doing the command `.ticket` to make a ticket.",
+    "description2": "XX",
+    "description3": "XX",
+
+    "footer": "InfinityBot",
+    
+
+    
+    "thumbnail": "https://cdn.discordapp.com/attachments/811145020814917693/823712675078864906/2000x2000_1.png",
+    
+    "image": "https://cdn.discordapp.com/attachments/763495994440286230/844761163664982037/Screenshot_2021-03-02_100147.png",
+    "image2": "https://cdn.discordapp.com/attachments/763495994440286230/844761163664982037/Screenshot_2021-03-02_100147.png",
+
+
+    
+    "status1":"All of the servers I am in.",
+    "status2":"WATCHING",
+    
+    "MadeBY": "This bot is made by Noah",
+    
+    "token": "PUT YOUR TOKEN HERE"
+}
+
+
+
+
+
